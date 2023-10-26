@@ -1,2 +1,2 @@
 # AWP_Midterm_Llovit
- this is our midterm exam
+ this is my midterm exam
